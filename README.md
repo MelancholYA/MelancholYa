@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melancholya" alt="melancholya" style='margin:10px;' /></a> </p>
 
-- 🔭 I’m currently working with [TOKIO Studios](https://vimeo.com/tokiostudioit)
+- 🔭 I’m currently working with [Legal Doctrine](https://legal-doctrine.com/)
 
 - 🌱 I’m currently learning **Express.js , MongoDB , Mongoose , Websockets**
 
